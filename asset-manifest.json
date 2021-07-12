@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sharmilaveera.github.io/csb-w5fxq/static/css/main.3a77e9a4.chunk.css",
+    "main.js": "https://sharmilaveera.github.io/csb-w5fxq/static/js/main.de96e2bb.chunk.js",
+    "main.js.map": "https://sharmilaveera.github.io/csb-w5fxq/static/js/main.de96e2bb.chunk.js.map",
+    "runtime-main.js": "https://sharmilaveera.github.io/csb-w5fxq/static/js/runtime-main.7410c0e3.js",
+    "runtime-main.js.map": "https://sharmilaveera.github.io/csb-w5fxq/static/js/runtime-main.7410c0e3.js.map",
+    "static/js/2.a2d7c88e.chunk.js": "https://sharmilaveera.github.io/csb-w5fxq/static/js/2.a2d7c88e.chunk.js",
+    "static/js/2.a2d7c88e.chunk.js.map": "https://sharmilaveera.github.io/csb-w5fxq/static/js/2.a2d7c88e.chunk.js.map",
+    "index.html": "https://sharmilaveera.github.io/csb-w5fxq/index.html",
+    "static/css/main.3a77e9a4.chunk.css.map": "https://sharmilaveera.github.io/csb-w5fxq/static/css/main.3a77e9a4.chunk.css.map",
+    "static/js/2.a2d7c88e.chunk.js.LICENSE.txt": "https://sharmilaveera.github.io/csb-w5fxq/static/js/2.a2d7c88e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7410c0e3.js",
+    "static/js/2.a2d7c88e.chunk.js",
+    "static/css/main.3a77e9a4.chunk.css",
+    "static/js/main.de96e2bb.chunk.js"
+  ]
+}
